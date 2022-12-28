@@ -1,0 +1,27 @@
+C:\Users\HP\source\repos\B201200575\B201200575\bin\Debug\netcoreapp3.1\B201200575.exe
+C:\Users\HP\source\repos\B201200575\B201200575\bin\Debug\netcoreapp3.1\B201200575.deps.json
+C:\Users\HP\source\repos\B201200575\B201200575\bin\Debug\netcoreapp3.1\B201200575.runtimeconfig.json
+C:\Users\HP\source\repos\B201200575\B201200575\bin\Debug\netcoreapp3.1\B201200575.runtimeconfig.dev.json
+C:\Users\HP\source\repos\B201200575\B201200575\bin\Debug\netcoreapp3.1\B201200575.dll
+C:\Users\HP\source\repos\B201200575\B201200575\bin\Debug\netcoreapp3.1\B201200575.pdb
+C:\Users\HP\source\repos\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.AssemblyInfo.cs
+C:\Users\HP\source\repos\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.dll
+C:\Users\HP\source\repos\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.pdb
+C:\Users\HP\source\repos\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.genruntimeconfig.cache
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\bin\Debug\netcoreapp3.1\B201200575.exe
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\bin\Debug\netcoreapp3.1\B201200575.deps.json
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\bin\Debug\netcoreapp3.1\B201200575.runtimeconfig.json
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\bin\Debug\netcoreapp3.1\B201200575.runtimeconfig.dev.json
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\bin\Debug\netcoreapp3.1\B201200575.dll
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\bin\Debug\netcoreapp3.1\B201200575.pdb
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.AssemblyInfo.cs
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.dll
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.pdb
+C:\Users\HP\Documents\BSM\Bahar 2021-2022\Nesne Dayalı programlama\Faridd NDP\Ödev1\B201200575\B201200575\obj\Debug\netcoreapp3.1\B201200575.genruntimeconfig.cache
